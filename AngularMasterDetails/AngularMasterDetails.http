@@ -1,0 +1,6 @@
+@AngularMasterDetails_HostAddress = http://localhost:5126
+
+GET {{AngularMasterDetails_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
